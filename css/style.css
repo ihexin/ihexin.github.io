@@ -386,6 +386,20 @@ a.button1 {
 }
 a.button1:hover {
   background: #78b907;
+}a.button2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  padding: 0.5em 1.5em;
+  border: 1px solid #000;
+  text-decoration: none;
+  background: #fb4b4b;
+  color: #fff;
+  border: none;
+  position:relative;
+top:20px
+}
+a.button2:hover {
+  background: #78b907;
 }
 .video iframe{
 	width:100%;
